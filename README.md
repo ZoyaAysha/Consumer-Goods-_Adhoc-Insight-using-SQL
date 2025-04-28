@@ -1,0 +1,1 @@
+# Consumer-Goods-_Adhoc-Insight-using-SQL
